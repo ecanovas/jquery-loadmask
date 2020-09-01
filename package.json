@@ -1,0 +1,22 @@
+{
+  "name": "jquery-loadmask",
+  "version": "1.0.0",
+  "description": "fork de https://github.com/serg472/jquery-loadmask",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecanovas/jquery-loadmask.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecanovas/jquery-loadmask/issues"
+  },
+  "homepage": "https://github.com/ecanovas/jquery-loadmask#readme"
+}
